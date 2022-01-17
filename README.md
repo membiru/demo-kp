@@ -1,2 +1,2 @@
 # demo-kp
-Program website untuk demo KP
+Website untuk demo KP (Pembuatan Klasifikasi Menggunakan Data LAPOR!) di KOMINFO BANJARBARU
